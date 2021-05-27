@@ -1,5 +1,3 @@
-# fire-circle
-add this to your saves folder in the .minecraft folder
-delete this README.md
+add your world of choose to your saves folder in the .minecraft folder
 open minecraft
-play the world called "fire circle"
+play the world you chose
